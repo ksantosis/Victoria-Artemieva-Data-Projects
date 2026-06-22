@@ -2,7 +2,7 @@
 
 Welcome to my Data Analyst portfolio. Here I showcase practical projects demonstrating skills in **SQL**, **Python (Pandas)**, data cleaning, cohort analysis, retention metrics, and exploratory data analysis.
 
-## 📊 Projects
+##  Projects
 
 ### 1. User Retention Analysis — Cohort Analysis & Retention Rate
 **Tools:** SQL, Google Sheets (Pivot Tables, Slicers, Conditional Formatting)  
@@ -14,13 +14,13 @@ Welcome to my Data Analyst portfolio. Here I showcase practical projects demonst
 **Description:** Performed exploratory data analysis on the Stack Overflow Developer Survey dataset. Analyzed developer experience, compensation, remote work, Python popularity, and more.  
 **Link:** [View Notebook](https://github.com/ksantosis/Victoria-Artemieva-Data-Projects/blob/main/Artemieva_final_project_English.ipynb)
 
-## 🛠️ Technical Skills
+##  Technical Skills
 - **SQL**: Data cleaning, date parsing, CTEs, cohort analysis, aggregations
 - **Python**: Pandas, EDA, descriptive statistics, grouping, filtering
 - **Visualization**: Google Sheets (advanced dashboards, slicers)
 - **Other**: Business metrics, retention analysis, stakeholder reporting
 
-## 📫 Contact
+##  Contact
 - Email: torimail13@gmail.com
 - LinkedIn: [Victoria Artemieva](https://www.linkedin.com/in/victoria-artemieva-a45ba220a/)
 - Location: Budapest, Hungary
