@@ -12,7 +12,7 @@ Welcome to my Data Analyst portfolio. Here I showcase practical projects demonst
 ### 2. Stack Overflow Developer Survey Analysis
 **Tools:** Python, Pandas, Jupyter Notebook  
 **Description:** Performed exploratory data analysis on the Stack Overflow Developer Survey dataset. Analyzed developer experience, compensation, remote work, Python popularity, and more.  
-**Link:** [View Notebook](https://github.com/ksantosis/Victoria-Artemieva-Data-Projects/blob/main/Artemieva_final_project_English.ipynb)
+**Link:** [View Notebook](https://github.com/ksantosis/Victoria-Artemieva-Data-Projects/blob/main/Stack_Overflow_Developer_Survey_Analysis.ipynb)
 
 ##  Technical Skills
 - **SQL**: Data cleaning, date parsing, CTEs, cohort analysis, aggregations
